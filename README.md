@@ -1,4 +1,4 @@
-# WiFunny - WiFi Pранк-Инструмент для Termux с Kali Linux
+# WiFunny - WiFi Пранк-Инструмент для Termux с Kali Linux
 
 ## Что такое WiFunny?
 
